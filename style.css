@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(58, 7, 105);
+    color: #ffffff !important;
+}
+.section{
+    padding: 40px;
+}
+
+.btn{
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+}
